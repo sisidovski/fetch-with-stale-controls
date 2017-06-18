@@ -19,7 +19,7 @@ npm install --save fetch-with-stale-controls
 - `url` 
 - `options` [node-fetch options](https://github.com/bitinn/node-fetch/blob/master/README.md#fetch-options) with additional extensions.
 
-```json
+```js
 {
   // In addition to fetch Standard and node-fetch extensions
   swr: 30,
