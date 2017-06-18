@@ -1,0 +1,19 @@
+{
+  "name": "fetch-with-stale-controls",
+  "version": "0.0.1",
+  "description": "A wrapper of node-fetch(https://github.com/bitinn/node-fetch) with HTTP stale controls and default timeout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sisidovski/fetch-with-stale-controls.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sisidovski/fetch-with-stale-controls/issues"
+  },
+  "homepage": "https://github.com/sisidovski/fetch-with-stale-controls#readme"
+}
