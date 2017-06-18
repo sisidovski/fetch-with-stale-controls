@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sisidovski/fetch-with-stale-controls/issues"
   },
-  "homepage": "https://github.com/sisidovski/fetch-with-stale-controls#readme"
+  "homepage": "https://github.com/sisidovski/fetch-with-stale-controls#readme",
+  "dependencies": {
+    "node-fetch": "^1.7.1"
+  }
 }
